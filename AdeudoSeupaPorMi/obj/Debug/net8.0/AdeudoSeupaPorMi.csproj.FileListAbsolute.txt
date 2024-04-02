@@ -1,0 +1,14 @@
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\bin\Debug\net8.0\AdeudoSeupaPorMi.exe
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\bin\Debug\net8.0\AdeudoSeupaPorMi.deps.json
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\bin\Debug\net8.0\AdeudoSeupaPorMi.runtimeconfig.json
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\bin\Debug\net8.0\AdeudoSeupaPorMi.dll
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\bin\Debug\net8.0\AdeudoSeupaPorMi.pdb
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\obj\Debug\net8.0\AdeudoSeupaPorMi.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\obj\Debug\net8.0\AdeudoSeupaPorMi.AssemblyInfoInputs.cache
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\obj\Debug\net8.0\AdeudoSeupaPorMi.AssemblyInfo.cs
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\obj\Debug\net8.0\AdeudoSeupaPorMi.csproj.CoreCompileInputs.cache
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\obj\Debug\net8.0\AdeudoSeupaPorMi.dll
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\obj\Debug\net8.0\refint\AdeudoSeupaPorMi.dll
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\obj\Debug\net8.0\AdeudoSeupaPorMi.pdb
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\obj\Debug\net8.0\AdeudoSeupaPorMi.genruntimeconfig.cache
+D:\VisualStudioProyectos\Proyectos\AdeudoSeupaPorMi\obj\Debug\net8.0\ref\AdeudoSeupaPorMi.dll
